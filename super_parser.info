@@ -1,0 +1,6 @@
+name = "Super parser"
+description = "Super parser description."
+project = "WebInvest Developers Module"
+package = "WebInvest cModules"
+core = 6.x
+version = 6.x-2.0
